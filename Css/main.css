@@ -2,3 +2,28 @@ h1 {
     color: blueviolet;
     text-align: center;
 }
+
+#head {
+    text-align: center;
+    font-size: 40px;
+    color: crimson;
+    background-color: rgba(205, 247, 250, 0.965);
+    border: 5px solid black;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.img-1 {
+    border: 5px solid black;
+    border-radius: 10px;
+    height: 300px;
+    width: 48%;
+
+}
+
+.img-2 {
+    border: 5px double darkgreen;
+    border-radius: 10px;
+    height: 300px;
+    width: 50%;
+}
